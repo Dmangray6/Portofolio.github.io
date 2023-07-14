@@ -1,2 +1,2 @@
-# Portofolio.github.io
-Portofolion Bagus Fathur Rochman
+# BagusFathur.github.io
+Portofolio Bagus Fathur Rochman
